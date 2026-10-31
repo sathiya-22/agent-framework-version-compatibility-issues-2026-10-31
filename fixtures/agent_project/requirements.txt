@@ -1,0 +1,5 @@
+langchain==0.0.300
+llama-index==0.10.0
+requests>=2.28.0
+numpy==1.26.0
+click
